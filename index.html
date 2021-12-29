@@ -1,0 +1,136 @@
+<html>
+  <head>
+    <title>yar's website</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/clipboard@2.0.8/dist/clipboard.min.js"></script>
+    <style type="text/css">
+      body {
+          background-color: #2D2C58;
+          color: white;
+      }
+      div#the {
+          margin-left:auto;
+          margin-right:auto;
+          margin-top: 100px;
+          margin-bottom:60px;
+          text-align: left;
+          width:550px;
+      }
+      a {
+          text-decoration: none;
+          font-weight: bold;
+          color: purple;
+      }
+      span.att {
+          vertical-align: middle;
+          line-height: 1.6;
+          font-size: 15px;
+      }
+      input.copyme {
+          height: 27px;
+          color:  grey;
+          background-color: inherit;
+          border: 0px solid white;
+      }
+      button.copyme {
+          height: 27px;
+          border: 1px solid black;
+          border-radius: 3px;
+      }
+      img.copyme {
+          width: 13px;
+          vertical-align: middle;
+      }
+    </style>
+  </head>  
+  <body>
+    <div id="the">
+      <span class="att" >
+        Yardena "yar" Cohen<br />
+        she/her</br />
+        Oakland, California<br />
+        <a href="mailto:yardenack@gmail.com">yardenack@gmail.com</a><br />
+        <br />
+
+        <a href="https://twitter.com/atyardena">twitter</a>
+        <a href="https://github.com/yardenac">github</a>
+        <a href="https://medium.com/@yardenack">medium</a>
+        <a href="https://www.reddit.com/user/yardenac">reddit</a>
+        <a href="https://keybase.io/yar">keybase</a><br />
+        <a href="https://en.wikipedia.org/wiki/User:Yardenac">wikipedia</a> <a href="https://en.wikipedia.org/wiki/Special:Contributions/Yardenac">contribs</a><br />
+        <a href="https://yar-votes.github.io/">oakland voting guide</a><br />
+        yar @ irc, slack, discord, &c<br />
+        <br />
+        
+        ssh key:
+        <input class="copyme" id="ssh" type="text" value="ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILMr+EGaBTbbmdYesr/VrXeWjjILOA9zHxqq9ZA3N6nK" />
+        <button class="copyme btn" type="button" data-clipboard-target="#ssh">
+          <img class="copyme" src="https://clipboardjs.com/assets/images/clippy.svg" alt="Copy to clipboard" />
+        </button>
+        <br />
+
+        gpg key:
+        <input class="copyme" id="gpg" type="text" value="-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+pENe
+=ue07
+-----END PGP PUBLIC KEY BLOCK-----" />
+        <button class="copyme btn" type="button" data-clipboard-target="#gpg">
+          <img class="copyme" src="https://clipboardjs.com/assets/images/clippy.svg" alt="Copy to clipboard" />
+        </button>
+        <br />
+
+        <br />
+      </span>
+    </div>
+    <script>
+      new ClipboardJS('.btn');
+    </script>
+  </body>
+</html>

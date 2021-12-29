@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/yar
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://yar.gay
+  * I am yar (https://keybase.io/yar) on keybase.
+  * I have a public key with fingerprint 94A0 0043 29C3 7988 6187  F0DB 3EA8 3F01 3020 A074
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101b1f28ec1b3ed48e04c5ae4f3feda0921dee06ba360779e069dbdef0443bb3e8c0a",
+      "fingerprint": "94a0004329c379886187f0db3ea83f013020a074",
+      "host": "keybase.io",
+      "key_id": "3ea83f013020a074",
+      "kid": "0101b1f28ec1b3ed48e04c5ae4f3feda0921dee06ba360779e069dbdef0443bb3e8c0a",
+      "uid": "ba3d66d7bd3c02ff19b4b0470b9d0200",
+      "username": "yar"
+    },
+    "service": {
+      "hostname": "yar.gay",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1640779602,
+  "expire_in": 157680000,
+  "prev": "742ad7cb114f549db6d114b9aa4d53b1740db4a4a59f813365b6b6b19ec25597",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUm1QVFUY3uUbyq+RWGQi9S5m6Irnfuy9e1dDjbG0+CggpKR27t177nJj2bvu
+B7ISkgMjUjOgTDPyYcmAmIRCEAE7kiMRYyADQjNo5qAytdYoSCOIMEGdZXL608/m
+/DjnvOd5nvd53/MeX+arCFLGntuhBOtqHMqrv/MKbiCxMg/jZcGF6fOwLLi0QbMA
+7Q5DliRgegzgAOdxkdBBI86TUKB0EFBGLQcpkRShwAGWwAUIAc1zJA0YhkVHVuAF
+KAKKInlE0RkBh2kwUbKYoM1qkywOJMtSHACAIgnWSDKsTkfjOkYEAoJzOlIEOAkI
+wAGGQsRM2e5lIHM8Z4cxkoxi6GJYsvcf+P/Zt3NJDqEEmhYYXiCNgBBFnOUpHlAM
+4FkBpQZeoB3aLFw2RGgXZ8PyNRgK5EhG6O2pt4h/H2NMnAsxrDbZIRtlMwpmOhxW
+u95LcrisXtRByBv+4Rt4ySKg7iFGDrTZJdmC6XGENDokryBOU17/NCA0GMy1SjZo
+kLwILUPrUI+BNw/MQZIMRXACY+RxnBK1FCo2kRbQmWc5jhK0JI8zFPoBiqM4LSvq
+cJKktTyNFs5CI6HVsgzmLemARcb0JPLJmZCmXTJZOIfTBrH8kBIf0k+hDFJEhq33
++7RGERfd4zrGFU/9/HTi/H2846YICV75NELvW6loTh5WhRzakWZb8VPKzsrZd4fA
+5tCjny1Xl29VR8gzqUTdqoB3rrCq+7u33f384I2GXxua1pWx42q2NOls+9yIaiS7
+L+jm+NAzLt/cyS21259VFh4fPd14/gCjBrpfNF0Rv/U7W9ekjHlaVFXWL2fDHs89
+3x9v/jGwSfWWYeqbkuTFE1V/3GwOf/NIcdqpVwoKjfOD+16Pr55OMndMTg509fLj
+PeNbbq/d+0ZGwvXXGCEm7mI6v7P2grtvY3dwtqAv60p6+G39pg17Bztafygo5+vf
+i9F/dObF8sxVk/nDDVe156Ph14X59yjxXEz0nvbvbLc0lSUrCspmAhJONmyU3Luq
+bm+LKt0zXaTcX5ye/9KhKLfslsfErYM+m1sfLfAPnEUZ5qkX9B+nLFdHDq697LlV
+4R+a0jfwaPRJRVvgw7bDVzpbUqm0UnMCFvoBYevJ053N2DFLjIU0y6sfRHbUqAqX
+bRJyr09f8oTuaguOmNBe/it8v8fddC9xoSoxONiTHPBYEQV9UzvLBTFh4WVn91Bt
+c933sadaDoe3VN9JH65odH7yheaG/4RfozPzQ/+Za69eOOnpvGZorh1pXzzjs9t9
+IjQ27Ukblm0anb4fVsfRF7PuTGxf6FXPF/auWThdQQQeaZ+rjrvbO1e5/tjk4nOl
+RT5/wpHU+tVvb4i/9H7/V4HdGab5mr8B
+=mQ6+
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/yar
+
+==================================================================

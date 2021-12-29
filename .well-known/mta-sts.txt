@@ -1,0 +1,4 @@
+version: STSv1
+mode: enforce
+mx: yar.gay
+max_age: 3600
